@@ -29,11 +29,11 @@ body {
 }
 
 .main-section {
+    padding-left: 170px;
     display: flex;
     flex-direction: row-reverse;
     width: 1200px;
     margin: 40px auto;
-    padding-left: 170px;
 
 
 }
